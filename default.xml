@@ -62,12 +62,6 @@
   <project path="device/qcom/common" name="TEAM-Gummy/android_device_qcom_common" remote="tg" revision="kk4.4" />
   <project path="device/sample" name="TEAM-Gummy/android_device_sample" remote="tg" revision="kk4.4" />
 
-  <!-- Gummy Devices -->
-  <project path="device/lge/hammerhead" name="TEAM-Gummy/android_device_lge_hammerhead" remote="tg" revision="kk4.4" />
-
-  <!-- Kernel Sources -->
-  <project path="kernel/lge/hammerhead" name="TEAM-Gummy/android_kernel_lge_hammerhead" remote="tg" revision="kk4.4" />
-
   <!-- External Packages -->
   <project path="external/aac" name="CyanogenMod/android_external_aac" remote="cm" revision="cm-11.0" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -531,4 +525,6 @@
   <project name="k2wl/android_kernel_lge_msm8226" path="kernel/lge/msm8226" remote="github" revision="cm-11.0"  />
   <project name="Quarx2k/proprietary_vendor_lge"  path="vendor/lge" remote="github" revision="cm-11.0"/>
   <project path="vendor/Gummy" name="TEAM-Gummy/vendor_Gummy" remote="tg" revision="kk4.4" />
+  <project name="dorimanx/Dorimanx-LG-G2-D802-Kernel" path="kernel/lge/g2" remote="github" revision="LG-STOCK-KK"  />
+  
 </manifest>
