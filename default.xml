@@ -494,6 +494,8 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.7" name="TEAM-Gummy/Linaro_47x_toolchain" remote="tg" revision="kk4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.8" name="TEAM-Gummy/Linaro_48x_toolchain" remote="tg" revision="kk4.4" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8.4" name="kantjer/SaberMod" remote="github" revision="arm-linux-androideabi-4.8" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8.4" name="kantjer/SaberMod" remote="github" revision="arm-eabi-4.8" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="kantjer/SaberMod" remote="github" revision="arm-eabi-4.9" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="kantjer/SaberMod" remote="github" revision="arm-linux-androideabi-4.9" />
   
